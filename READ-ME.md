@@ -15,5 +15,5 @@ PREGUNTAS Y RESPUESTAS DE LA IA:
 URLS:
 GitHub = https://github.com/fcheuque/Frontendfelipecheuque
 GitHub Pages = https://fcheuque.github.io/Frontendfelipecheuque/
-versel = https://vercel.com/felipe-cheuque/front_felipe_ch
+versel = https://frontfelipe-lg7bl5rel-felipe-cheuque.vercel.app/
 Render = https://frontendfelipecheuque-3.onrender.com/
