@@ -12,3 +12,8 @@ PREGUNTAS Y RESPUESTAS DE LA IA:
     Listo! aqui esta tu codigo más simplificado con cero Divs...
 
 
+URLS:
+GitHub = https://github.com/fcheuque/Frontendfelipecheuque
+GitHub Pages = https://fcheuque.github.io/Frontendfelipecheuque/
+versel = https://vercel.com/felipe-cheuque/front_felipe_ch
+Render = https://frontendfelipecheuque-3.onrender.com/
